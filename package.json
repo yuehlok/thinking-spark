@@ -1,0 +1,49 @@
+{
+  "name": "thinking-spark",
+  "version": "0.1.0",
+  "description": "Zero-dependency animated thinking indicators as a Web Component: breathe, orbit, shimmer, pulse, typing.",
+  "type": "module",
+  "main": "./src/thinking-spark.js",
+  "module": "./src/thinking-spark.js",
+  "types": "./src/thinking-spark.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/thinking-spark.d.ts",
+      "default": "./src/thinking-spark.js"
+    },
+    "./star": {
+      "types": "./src/thinking-spark.d.ts",
+      "default": "./src/thinking-spark.js"
+    }
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "sideEffects": [
+    "./src/thinking-spark.js"
+  ],
+  "keywords": [
+    "thinking",
+    "spinner",
+    "loader",
+    "web-component",
+    "custom-element",
+    "animation",
+    "svg"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuehlok/thinking-spark.git"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node demo/serve.mjs"
+  }
+}
