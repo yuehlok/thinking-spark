@@ -7,6 +7,8 @@ Five variants, one tag, no build step.
 <thinking-spark variant="orbit" size="24" color="#d97757"></thinking-spark>
 ```
 
+![demo](docs/preview.png)
+
 > Independent implementation. Not affiliated with Anthropic. No third-party assets included.
 
 ## Variants
