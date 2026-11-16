@@ -5,7 +5,7 @@ animations (breathing starburst, orbiting dots, dot rings, typing dots).
 
 It is NOT affiliated with, endorsed by, or sponsored by Anthropic. It does not
 contain or redistribute any Anthropic assets, sprite sheets, fonts, or logos.
-The starburst shape is generated procedurally from a seeded PRNG at runtime.
+The starburst artwork is an original vector drawn by the project author and is licensed under the same MIT terms. A procedural starPath() helper is also provided for generated variations.
 
 If you use this library in a product, you are responsible for your own branding
 and trademark compliance. Do not imply endorsement by any third party.

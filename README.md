@@ -9,7 +9,7 @@ Five variants, one tag, no build step.
 
 ![demo](docs/preview.png)
 
-> Independent implementation. Not affiliated with Anthropic. No third-party assets included.
+> Independent implementation. Not affiliated with Anthropic. The starburst is original artwork drawn by the project author.
 
 ## Variants
 
@@ -56,7 +56,7 @@ spark.setAttribute('speed', '0.8');
 spark.toggleAttribute('paused', true);
 ```
 
-The starburst geometry is available on its own:
+A procedural starburst generator is also exported if you want a different shape:
 
 ```js
 import { starPath } from 'thinking-spark/star';
