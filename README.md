@@ -9,6 +9,8 @@ Five variants, one tag, no build step.
 
 ![demo](docs/preview.png)
 
+Animated `orbit` preview: [docs/orbit.webp](docs/orbit.webp)
+
 > Independent implementation. Not affiliated with Anthropic. The starburst is original artwork drawn by the project author.
 
 ## Variants
